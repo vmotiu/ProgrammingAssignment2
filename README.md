@@ -50,8 +50,6 @@ cache and skips the computation. Otherwise, it calculates the mean of
 the data and sets the value of the mean in the cache via the `setmean`
 function.
 
-    
-
 ### Assignment: Caching the Inverse of a Matrix
 
 Matrix inversion is usually a costly computation and there may be some
